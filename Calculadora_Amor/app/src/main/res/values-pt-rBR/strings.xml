@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora do amor</string>
+    <string name="cn_et_nome1">Primeiro pombinho</string>
+    <string name="cn_tv_nome2">Segundo pombinho</string>
+    <string name="cn_btn_calcular">Calcular</string>
+    <string name="cn_tv_titulo">Insira os nomes</string>
+    <string name="e"> e </string>
+    <string name="possuem"> possuem </string>
+    <string name="fim"> % de chance de se apaixonarem!</string>
+    <string name="ma_tv_escolha">Escolha:</string>
+    <string name="ma_tv_bio">Leitor Biométrico</string>
+    <string name="ma_tv_nome">Por nome</string>
+    <string name="pd_tv_primeiro">Primeiro pombinho</string>
+    <string name="pd_tv_instrucao">Pressione seu dedão sobre o leitor</string>
+    <string name="pd_btn_leitor">Leitor</string>
+    <string name="sd_tv_segundo">Segundo pombinho</string>
+    <string name="sd_tv_instrucao">Pressione seu dedão sobre o leitor</string>
+    <string name="sd_btn_leitor">Leitor</string>
+    <string name="cd_tv_resposta1">Vocês possuem</string>
+    <string name="cd_tv_resposta2">% de chance de se apaixonarem!</string>
+    <string name="splash">Tela de carregamento</string>
+    <string name="cn_rb_masculino">Masculino</string>
+    <string name="cn_rb_feminino">Feminino</string>
+    <string name="cn_rb_outro">Outro</string>
+    <string name="sexo">Gênero de</string>
+</resources>

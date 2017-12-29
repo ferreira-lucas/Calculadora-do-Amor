@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="cn_et_nome1">First lovebird</string>
+    <string name="cn_tv_nome2">Second lovebird</string>
+    <string name="cn_btn_calcular">Calculate</string>
+    <string name="cn_tv_titulo">Insert the names</string>
+    <string name="e">and</string>
+    <string name="possuem">have a</string>
+    <string name="fim">% chance of falling in love!</string>
+    <string name="ma_tv_escolha">Choose:</string>
+    <string name="ma_tv_bio">Biometric reader</string>
+    <string name="ma_tv_nome">By name</string>
+    <string name="pd_tv_primeiro">First Lovebird</string>
+    <string name="pd_tv_instrucao">Press your thumb on the reader</string>
+    <string name="pd_btn_leitor">Reader</string>
+    <string name="sd_tv_segundo">Second Lovebird</string>
+    <string name="sd_tv_instrucao">Press your thumb on the reader</string>
+    <string name="sd_btn_leitor">Reader</string>
+    <string name="cd_tv_resposta1">You two have</string>
+    <string name="cd_tv_resposta2">% chance of falling in love!</string>
+    <string name="splash">Loading Screen</string>
+    <string name="cn_rb_masculino">Male</string>
+    <string name="cn_rb_feminino">Female</string>
+    <string name="cn_rb_outro">Other</string>
+    <string name="sexo">Genre of</string>
+</resources>
